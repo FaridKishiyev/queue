@@ -1,0 +1,14 @@
+C:\Users\acer\source\repos\quen\quen\bin\Debug\netcoreapp3.1\quen.exe
+C:\Users\acer\source\repos\quen\quen\bin\Debug\netcoreapp3.1\quen.deps.json
+C:\Users\acer\source\repos\quen\quen\bin\Debug\netcoreapp3.1\quen.runtimeconfig.json
+C:\Users\acer\source\repos\quen\quen\bin\Debug\netcoreapp3.1\quen.runtimeconfig.dev.json
+C:\Users\acer\source\repos\quen\quen\bin\Debug\netcoreapp3.1\quen.dll
+C:\Users\acer\source\repos\quen\quen\bin\Debug\netcoreapp3.1\quen.pdb
+C:\Users\acer\source\repos\quen\quen\obj\Debug\netcoreapp3.1\quen.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\quen\quen\obj\Debug\netcoreapp3.1\quen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\quen\quen\obj\Debug\netcoreapp3.1\quen.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\quen\quen\obj\Debug\netcoreapp3.1\quen.AssemblyInfo.cs
+C:\Users\acer\source\repos\quen\quen\obj\Debug\netcoreapp3.1\quen.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\quen\quen\obj\Debug\netcoreapp3.1\quen.dll
+C:\Users\acer\source\repos\quen\quen\obj\Debug\netcoreapp3.1\quen.pdb
+C:\Users\acer\source\repos\quen\quen\obj\Debug\netcoreapp3.1\quen.genruntimeconfig.cache
